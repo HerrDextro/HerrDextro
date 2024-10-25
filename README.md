@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there! I am an IT student in BBBaden IMS, 
+Hi there! I am an IT student in BBBaden IMS
