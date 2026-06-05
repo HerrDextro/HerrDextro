@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Thomas Andersson
+# Hi there! 👋 I'm Neo Dijkstra (yes, from the Matrix)
 
 ---
 
@@ -56,10 +56,3 @@
 
 
 
-
-
-https://img.shields.io/badge/AKSA-BBB-blue
-
-https://img.shields.io/badge/LinkedIn-0072b1?link=https://www.linkedin.com/in/neo-dijkstra-90770a405
-
- https://img.shields.io/badge/github-fav project😍-blue?logo=github?link=https://github.com/HerrDextro/s23bucket
