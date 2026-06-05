@@ -1,18 +1,65 @@
-## Hi there 👋
+# Hi there! 👋 I'm Thomas Andersson
 
-<!--
-**HerrDextro/HerrDextro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎓 Applications Development Student at **Alte Kantonsschule Aarau (AKSA)** and **Berufsfachschule BBB Baden**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
 
-Hi there! I am an IT student in BBBaden IMS
+```json
+{
+  "role": "Applications Development Student",
+  "location": "Aargau, Switzerland",
+  "interests": [
+    "Software Development",
+    "Artificial Intelligence",
+    "System Design",
+    "Programming",
+    "Automation",
+    "Game Development"
+  ],
+  "currently_learning": [
+    "C#",
+    ".NET",
+    "Software Architecture",
+    "AI Engineering",
+    "Embedded Systems"
+  ],
+  "tools": [
+    "Visual Studio",
+    "Git",
+    "GitHub",
+    ".NET",
+    "Windows"
+  ],
+}
+```
+
+## Connect & Projects
+
+[![AKSA](https://img.shields.io/badge/AKSA-BBB-blue)](#)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/neo-dijkstra-90770a405)
+
+[![Favorite Project](https://img.shields.io/badge/GitHub-Favorite%20Project-blue?logo=github)](https://github.com/HerrDextro/s23bucket)
+
+## Current Interests
+
+* Software Architecture
+* Artificial Intelligence
+* Backend Development
+* Automation
+* Embedded Systems
+* Game Development
+
+> Building things, breaking things, figuring out why they broke, and then staring at them wondering how to fix
+
+
+
+
+
+https://img.shields.io/badge/AKSA-BBB-blue
+
+https://img.shields.io/badge/LinkedIn-0072b1?link=https://www.linkedin.com/in/neo-dijkstra-90770a405
+
+ https://img.shields.io/badge/github-fav project😍-blue?logo=github?link=https://github.com/HerrDextro/s23bucket
