@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Neo Dijkstra (yes, from the Matrix)
+# Hi there! I'm Neo Dijkstra (yes, from the Matrix)
 
 ---
 
