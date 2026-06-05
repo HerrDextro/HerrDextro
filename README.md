@@ -3,6 +3,8 @@
 ---
 
 🎓 Applications Development Student at **Alte Kantonsschule Aarau (AKSA)** and **Berufsfachschule BBB Baden**
+
+
 [![AKSA](https://img.shields.io/badge/AKSA-BBB-blue)](#)
 
 ## Connect & Projects
