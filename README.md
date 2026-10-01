@@ -31,7 +31,6 @@
     "C#",
     "python",
     "Software Architecture",
-    "AI Engineering",
     "Embedded Systems"
   ],
   "tools": [
@@ -45,15 +44,6 @@
   ]
 }
 ```
-
-## Current Interests
-
-* Software Architecture
-* Artificial Intelligence
-* Backend Development
-* Automation
-* Embedded Systems
-* Game Development
 
 > Building things, breaking things, figuring out why they broke, and then staring at them wondering how to fix
 
