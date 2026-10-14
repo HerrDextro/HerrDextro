@@ -1,11 +1,10 @@
-# Hi there! I'm Neo Dijkstra (yes, from the Matrix)
+# Hi there! I'm Neo Dijkstra (yes, my parents named me after Neo from the Matrix)
 
 ---
 
 🎓 Applications Development Student at **Alte Kantonsschule Aarau (AKSA)** and **Berufsfachschule BBB Baden**
 
 
-[![AKSA](https://img.shields.io/badge/AKSA-BBB-blue)](#)
 
 ## Connect & Projects
 
@@ -45,7 +44,6 @@
 }
 ```
 
-> Building things, breaking things, figuring out why they broke, and then staring at them wondering how to fix
 
 
 
