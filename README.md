@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/neo-dijkstra-90770a405)
 
-[![Favorite Project](https://img.shields.io/badge/GitHub-Favorite%20Project-blue?logo=github)](https://github.com/HerrDextro/OpenAntenna-designer)
+[![Favorite Project](https://img.shields.io/badge/GitHub-Favorite%20Project-blue?logo=github)](https://github.com/HerrDextro/AADOS)
 
 ## About Me
 
@@ -24,22 +24,26 @@
     "System Design",
     "Automation",
     "RC planes/drones",
-    "Radio"
+    "Amateur Radio"
   ],
   "currently_learning": [
     "C#",
-    "python",
+    "Python",
     "Software Architecture",
-    "Embedded Systems"
+    "Embedded Systems",
+    "RF Physics",
+    "Electronics"
   ],
   "tools": [
-    "Visual Studio (Code)",
+    "Visual Studio / VS Code",
     "Git",
-    "GitHub",
-    ".NET",
+    ".NET workloads / application types",
     "Ollama",
+    "Claude AI",
     "Postman",
-    "Docker"
+    "Docker",
+    "KiCad",
+    "Fusion 360"
   ]
 }
 ```
