@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/neo-dijkstra-90770a405)
 
-[![Favorite Project](https://img.shields.io/badge/GitHub-Favorite%20Project-blue?logo=github)](https://github.com/HerrDextro/AADOS)
+[![Favorite Project](https://img.shields.io/badge/GitHub-Favorite%20Project-blue?logo=github)](https://github.com/HerrDextro/s23bucket)
 
 ## About Me
 
